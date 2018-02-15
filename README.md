@@ -3,9 +3,9 @@ There are the Coursera’s MOOC Developing Data Products Course from Johns Hopki
 
 GitHub repo: https://github.com/mallinookala03/Reproducible_Pitch
 
-Demo: https://b33lie.shinyapps.io/shiny_app_mtcars/
+Demo: https://superpower.shinyapps.io/Shiny_Application_and_Reproducible_Pitch/
 
-Slide: http://rpubs.com/b33lie/148785
+Slide: http://rpubs.com/mallinookala/360218
 
 ## Description
 
